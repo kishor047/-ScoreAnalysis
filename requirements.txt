@@ -1,0 +1,7 @@
+requirements
+streamlit
+pandas
+pymongo
+gridfs
+bcrypt
+from io import BytesIO;
